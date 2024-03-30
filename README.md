@@ -2,7 +2,7 @@
 
 ### live: https://starmovies-3500.netlify.app
 
-![E-Commerce web app](https://github.com/Rudra-Godhani/E-Commerce-web-app/assets/139685113/f761818d-4e93-4062-a4e5-44baf31ba886)
+![StartMovies](https://github.com/Rudra-Godhani/StarMovies/assets/139685113/bf8d002c-74f2-4b02-97ba-c993bf7d19a2)
 
 # React + Vite
 
